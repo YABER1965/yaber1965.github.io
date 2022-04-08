@@ -1,6 +1,6 @@
 # QEU(Quality engineering unity)の紹介（予測技術編）
 
-###このブログはPythonによるAIとタグチメソッドを融合した実用的なシステムを構築することを目的としております。
+### このブログはPythonによるAIとタグチメソッドを融合した実用的なシステムを構築することを目的としております。
 __The purpose of this blog is to build a practical system that combines AI with the Taguchi methods in Python coding.__
 
 ## イントロダクション
