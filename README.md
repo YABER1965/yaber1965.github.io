@@ -70,3 +70,5 @@ __Collaborative filtering (Tmethod)__
 - [QEUR21_FATOY17](https://yaber1965.github.io/2022-04-08-QEUR21_INTRO62)
 - [QEUR21_FATOY18](https://yaber1965.github.io/2022-04-08-QEUR21_INTRO63)
 
+
+![](images/fastai_logo.png)
